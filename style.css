@@ -1,0 +1,46 @@
+html {
+    font-size: 14px;
+}
+
+body {
+
+    background-color: antiquewhite;
+
+}
+
+#background {
+
+    background-color: lightcyan;
+
+}
+
+.window {
+
+    border-color: black;
+    border-width: 10px;
+
+    background-color: cornsilk;
+
+}
+
+.windowTab {
+
+    border-color: black;
+    border-width: 10px;
+
+    background-color: navy;
+
+    align-self: flex-start;
+
+}
+
+.windowClose {
+
+    border-color: black;
+    border-width: 10px;
+
+    background-color: red;
+
+    align-self: flex-end;
+    
+}
